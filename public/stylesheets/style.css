@@ -1,0 +1,24 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+span {
+  font: 24px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+span.lemon {
+  color: #FFC908;
+}
+
+span.dark {
+  color: #1E2224;
+}
+
+div {
+  margin-bottom: 20px;
+}
